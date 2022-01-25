@@ -199,7 +199,7 @@
 	  padding: 1em;
 	  margin: 0 auto;
 	  background: linear-gradient(33deg,rgb(226, 250, 122) 70% ,wheat);
-	  min-height: 500px;
+	  min-height: 700px;
 	}
 	.top {
 		text-align: center;
